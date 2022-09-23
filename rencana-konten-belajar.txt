@@ -3,6 +3,10 @@ Rencana konten belajar
 -belajar git 
 *dasar 1
 *dasar 2
- ^cek si fitur 2
+^ dasar github
+- node js
 -bostrapp 
+^bostrap 4
 -laravel 
+-laravel 2
+-cek si fitur 1
