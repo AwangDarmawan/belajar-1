@@ -8,4 +8,5 @@ Rencana konten belajar
 -bostrapp 
 ^bostrap 4
 -laravel 
+-laravel 2
 -cek si fitur 1
