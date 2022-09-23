@@ -1,0 +1,5 @@
+Rencana konten belajar
+
+-belajar git 
+-bostrapp 
+-laravel 
